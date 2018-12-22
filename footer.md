@@ -11,15 +11,10 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 Now you will show Footer Setting theme options:
 
 * Section Layout Mode
-* Footer Icons
-* Contents
+* Logo Image / Logo Size / Logo type
+* Add Contents
   * Logo: show logo at footer 
-    * Limit 1 block only
   * Menu items: show
-  * Information
-    * Limit 1 block only
-  * Subcrible form
-    * Limit 1 block only
 
 **Note:  All block contents will show at 1 row only, Please set total block contents width options equal to 12.**
 
