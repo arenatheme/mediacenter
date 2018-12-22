@@ -1,5 +1,9 @@
 Think of theme settings like backbone of a theme.
 
+From your Shopify admin, go to **Online Store &gt; Themes. **Find the theme that you want to edit and click **Customize &gt; Theme settings**
+
+## ![](/assets/setting-01.png)
+
 ## Typography
 
 At **Typography**, you can customize:
@@ -44,8 +48,6 @@ At Settings Extended you can customize extended function that use for theme:
 
 ### Navigation Labels
 
-![](/assets/ handy-label.png)
-
 ### Cart Page
 
 At **Cart Page**, you can customize:
@@ -70,15 +72,15 @@ At **Cart Page**, you can customize:
 
 ### Product Item Styles
 
-It's will change display for product grid layout in Homepage & Collection (Product Grid).
+It's will change display for product grid layout in Homepage & Collection \(Product Grid\).
 
 ![](/assets/product-style.png)
+
 * Show product review
 * Use variant images for swatch color.
-* Metafields Countdown Timer: c_f.countdown_timer
+* Metafields Countdown Timer: c\_f.countdown\_timer
 * Hover effect
 * Product Labels
-
 
 ### FOMO \(Fear Of Missing Out\) Popups
 
