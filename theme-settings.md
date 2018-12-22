@@ -2,7 +2,7 @@ Think of theme settings like backbone of a theme.
 
 From your Shopify admin, go to **Online Store &gt; Themes. **Find the theme that you want to edit and click **Customize &gt; Theme settings**
 
-## ![](/assets/setting-01.png)
+![](/assets/setting-01.png)
 
 ## Typography
 
