@@ -11,6 +11,10 @@ At **Typography**, you can customize:
 * Web fonts.
 * Font size \(in px\).
 
+You can add a selection of premium fonts to your theme by using Shopify's font library.
+
+Shopify's font library is a collection of fonts that includes system fonts, a selection of Google fonts, and licensed fonts from [Monotype](https://www.monotype.com/). These fonts are free to use on Shopify online stores, and are provided in both [WOFF](https://caniuse.com/#feat=woff)and [WOFF2](https://caniuse.com/#feat=woff2)formats.
+
 ### Icon
 
 At Icons, you can customize icons display:
@@ -20,6 +24,8 @@ At Icons, you can customize icons display:
 * Header icons: Account icon, search icon, wishlist icon, compare icon and cart icon
 
 The theme use **arenafont **to display icon by CSS class. You may follow instruction to know how to use it.
+
+[Read more detail about arenafont here](/how-to-use-and-update-arenafont.md)
 
 ### Colors & Style
 
