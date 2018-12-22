@@ -14,18 +14,15 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 Now you can setting your header
 
-* Section Layout Mode: 
-
+* Section Layout Mode:
   * Box Layout: Small Desktop Screen \(&lt;1300px\)
   * Wide Layout: Wide Desktop Screen \(&gt;1900px\)
-
-* Section Background
+* Section Background Color
 * Logo image.
 * Custom logo width \(in pixels\): Set your logo size.
-* Top announcement bar
-* Store Address
-* Contact Box
+* Header Contact 
 * **Navigation**.
+* Navigation Label
 * Mega Navigation
 
 ### In this Sections
