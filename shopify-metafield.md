@@ -28,39 +28,7 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 
 4. List of **Meta field** Arena support use
 
-![](/assets/metafield Handy.png)
-
-**Collection Page**
-
-* _**New: Add Sub-collection**_
-
-```
-    - namespace: c_f
-    - key: subcategory
-    - value: Add menu handle item to display subcategory
-```
-
 **Product Page**
-
-* _**New: Add Bundle Product**_
-
-  ```
-    - namespace: c_f
-    - key: bundle_1
-    - value: Add your product handle #1!
-
-    - namespace: c_f
-    - key: bundle_2
-    - value: Add your product handle #2!
-  ```
-
-* _**New: Add Progress bar: Only x left in stock**_
-
-  ```
-    - namespace: c_f
-    - key: sale_number
-    - value: Total number of products you have in stock at the open sale
-  ```
 
 * _**New: Add Exit Intent Popup Product**_
 
