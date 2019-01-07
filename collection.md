@@ -17,34 +17,10 @@ The exact layout and appearance of collection pages depends on your theme.
 
 * From your Shopify admin, go to **Product** &gt; **Collection**. Creat or Select a collection to assign template.
 
-* Assign template to collection  
-      Eg.  
-      I assign collection infinite to collection  
-      [https://arena-handy.myshopify.com/collections/kitchen-thing](https://arena-handy.myshopify.com/collections/kitchen-thing).  
-      Collection handle: kitchen-things
-
-![](/assets/handlecol.png)
-
 From your Shopify admin, go to **Online Store &gt; Themes**
 
 * Find the theme that you want to edit and click **Customize**
 * From the top bar drop-down menu, select the type of page that you want to edit. **Select** **Collection pages**
-
-**Note:** 
-
-* Shopify only support for only **1 Collection page template** to customize at Section **Select**.
-* Collection is not support to use `view=alternative_template_name` when you customize Sections. 
-
-In order to customize collection template, you should change right handle collection as template.
-
-```
-  Eg. .../editor#/collections/birthday-gifts
-  -> customize collection default
-  Eg. .../editor#/collections/kitchen-things
-  -> customize collection infinite (as I assign kitchen-things to display Infinite template before)
-```
-Or you may assign collection template to default collection page and change it to config one by one.
-
 
 
 #### Options:
