@@ -25,14 +25,18 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 #### Options:
 
-There are 3 Static Section: **Header \(apply for all pages\), Collection \(collection detail\), Bottoms \(below collection detail\), Footer \(apply for all pages\). **
+There are 3 Static Section: **Header \(apply for all pages\), Collection \(collection detail\), Product Listing, Newsletter , Footer \(apply for all pages\). **
 
-* Collection pages
+* **Collection pages**
+  * Enable Mode View
+  * Enable Sort by
   * Products per page: Set the number of products show on each collection page
-  * Show collection mode view: Show select option mode view Grid/List
-  * Show collection Sort by
-  * Collection description position
-  * BREAKCRUMB
+  * Products per row: Set the number of products each row.
+  * TOP BANNER
+    * Top Banner style:
+      * Same for all collection: You can use only one image as the feature image for all collection.
+      * Different image for each collection: You my use the theme assets image to show different image for each collection.
+    * Upload image: Upload the image use when you select Same for all collection above.
   * **SIDEBAR** PLACEMENT
   * CONTENT: Setting contents for **SIDEBAR**
   * **Theme Settings**: Setting from this part will effect to the whole website.
