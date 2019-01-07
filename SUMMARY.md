@@ -24,8 +24,6 @@
     * [Left Column Section - Collection Menu](extensions/left-column-section.md)
   * [Footer](footer.md)
 * [Collection](collection.md)
-  * [Add Sub Collection](collection/add-sub-collection.md)
-  * [Add Collection Menu at Sidebar](collection/add-nested-collection-menu.md)
 * [Products Pages](products.md)
   * [Product Color or Image Variants](products/product-color-variant.md)
   * [Product Size Variant](products/product-quantity-selector.md)
