@@ -2,9 +2,7 @@
 
 Document Online version: https://arenatheme.gitbooks.io/mediacenter/content/
 
-
 ###New to Shopify?
-
 
 If you're setting up a Shopify store for the first time, we recommend taking a gander at the Shopify [Help Center](https://help.shopify.com/) for a full overview of the platform.  
 
@@ -17,4 +15,3 @@ If you are satisfied with our themes, please rate us 5 stars at [ThemeForest Dow
 **THANK YOU FOR PURCHASING OUR THEME !**
 
 **_Arena STC_**
-
