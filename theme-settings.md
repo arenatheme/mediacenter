@@ -4,24 +4,25 @@ From your Shopify admin, go to **Online Store &gt; Themes. **Find the theme that
 
 ![](/assets/setting-01.png)
 
-## Typography
-
+## 1. Typography
+![](/assets/Typo.png)
 At **Typography**, you can customize:
 
-* Web fonts.
-* Font size \(in px\).
+* Heading Font.
+* Body Font
 
 You can add a selection of premium fonts to your theme by using Shopify's font library.
-
+![](/assets/Shopifyfont.png)
 Shopify's font library is a collection of fonts that includes system fonts, a selection of Google fonts, and licensed fonts from [Monotype](https://www.monotype.com/). These fonts are free to use on Shopify online stores, and are provided in both [WOFF](https://caniuse.com/#feat=woff)and [WOFF2](https://caniuse.com/#feat=woff2)formats.
 
-### Icon
+### 2. Icon
 
 At Icons, you can customize icons display:
+![](/assets/icon-mediacenter.png)
 
 * Favicon.
 * Loading icon
-* Header icons: Account icon, search icon, wishlist icon, compare icon and cart icon
+* General icon
 
 The theme use **arenafont **to display icon by CSS class. You may follow instruction to know how to use it.
 
