@@ -21,7 +21,6 @@
   * [Sections](sections.md)
   * [Header](header.md)
     * [Add Mega Navigation](extensions/mega-navigation-setup.md)
-    * [Left Column Section - Collection Menu](extensions/left-column-section.md)
   * [Footer](footer.md)
 * [Collection](collection.md)
 * [Products Pages](products.md)
@@ -33,7 +32,7 @@
   * [Pro Multi-Tab Description](products/product-multi-tab-description.md)
 * [Pages](pages.md)
   * [About us & Contact Us](pages/about-us.md)
-* [Blog] (blogs.md)
+* \[Blog\] \(blogs.md\)
 
 ## Extensions
 

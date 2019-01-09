@@ -24,6 +24,21 @@ Now you can setting your header
 * Navigation Label
 * Mega Navigation
 
+### NAVIGATION
+
+There are 4 navigations:
+
+![](/assets/menu-mediacenter.png)
+
+1. Top Menu: Navigation list use on Top
+
+2. Main Menu
+
+3. Mobile Menu
+
+4. Vertical Menu
+
+
 ### SETUP MEGA NAVIGATION
 
 * [How to add Mega Navigation](/extensions/mega-navigation-setup.md)
