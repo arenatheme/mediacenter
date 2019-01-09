@@ -53,23 +53,26 @@ At Settings Extended you can customize extended function that use for theme:
 * Back to Top button
 * **EU COOKIE POLICY**
 
-### 5. Cart Page
+### 5. FOMO \(Fear Of Missing Out\) Popups
+
+At **FOMO Popup**, you can customize:
+
+* Sales Notification Popups
+
+* Visitor Count Popups
+
+* **[Exit Intent Popup Coupon](/extensions/exit-intent-popup.md)**
+
+
+### 6. Cart Page
 
 At **Cart Page**, you can customize:
 
-* Enable Search Function, Wishlist, Compare.
+* Enable Shopping Cart
 
-* Block shopping cart: enable shopping cart logo on your site. Also allow you to choose to display it either as **cart drawer **or **dropdown **
+* Cart Type on Desktop: choose to display it either as **cart drawer **or **dropdown **
 
 * **Multiple Currency**: choose whether to show multiple currency.
-
-* Add to cart redirect
-
-* Cart order notes
-
-* Shipping Calculator
-
-* Terms and Conditions
 
 ### 6. Product Grid
 
@@ -80,15 +83,6 @@ It's will change display for product grid layout in Homepage & Collection \(Prod
 * Hover Effect
 * Image Balance: Use in case your store dont have many product's image width/height ratio
 
-### FOMO \(Fear Of Missing Out\) Popups
-
-At **FOMO Popup**, you can customize:
-
-* Sales Notification Popups
-
-* Visitor Count Popups
-
-* **Exit Intent Popup Coupon**
 
 ### Popup Newsletter
 
