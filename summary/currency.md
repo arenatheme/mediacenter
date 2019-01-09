@@ -8,9 +8,9 @@ From your Shopify admin, go to
 
 1. Click**General**.
 
-2. In the**Standards and formats**section, click the**Change formatting**link.
+2. In the **Standards and formats**section, click the**Change formatting**link.
 
-3. In the**HTML with currency field**, wrap the existing content in an HTML span element with a class name set to`money`.
+3. In the **HTML with currency field**, wrap the existing content in an HTML span element with a class name set to`money`.
    If your store currency is United States Dollars \(USD\), then the format will look like this:  
    ```
    <span class=money>${{amount}} USD</span>
