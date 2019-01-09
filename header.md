@@ -17,15 +17,14 @@ Now you can setting your header
 * Section Layout Mode:
   * Box Layout: Small Desktop Screen \(&lt;1300px\)
   * Wide Layout: Wide Desktop Screen \(&gt;1900px\)
-* Section Background Color
-* Logo image.
-* Custom logo width \(in pixels\): Set your logo size.
+* Logo image selection.
+* Custom logo width \(in pixels\): Set your logo size to display.
 * Header Contact 
 * **Navigation**.
 * Navigation Label
 * Mega Navigation
 
-### In this Sections
+### SETUP MEGA NAVIGATION
 
 * [How to add Mega Navigation](/extensions/mega-navigation-setup.md)
 
