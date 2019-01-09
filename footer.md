@@ -10,7 +10,6 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 Now you will show Footer Setting theme options:
 
-* Section Layout Mode
 * Logo Image / Logo Size / Logo type
 * Add Contents
   * Logo: show logo at footer 
@@ -22,12 +21,18 @@ Our standard grid has 12 columns. It's mean 12 columns \( grids\)  equal to the 
 
 So a 6 grid column  would be 50% of the containing blocks width. An 8 would be 3/4th \(75%\) width.
 
-Eg.![](/assets/grid.png)
+When you select auto, it's will device as equal
 
-* Logo 3
-* Menu items 2
-* Information 3
-* Subcrible form 4
+Eg. 
+
+![](/assets/footer-grid.png)
+* Logo -  4
+* Menu item -  auto
+* Menu item - auto
+* Menu item - auto
+
+It's mean that each Menu item will has width equal to **8/3**
+
 
 
 
