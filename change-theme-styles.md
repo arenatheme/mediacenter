@@ -8,6 +8,9 @@ The settings\_data.json file stores the theme settings data saved from the theme
 2. Find the theme you want to edit, and then click **Actions &gt; Edit code**
 3. On the **Edit HTML/CSS page**, locate and click on the **Config** folder to reveal its content
 4. Replace current **settings\_data.json** by the new one at **pre-setting **folder
-
 ![](/assets/pizzaro-file-unzip.png)
 
+    * Open setting_data.json in pre-settings folder. Click to Open.
+    * **Copy** content and Paste it to settings_data.json in Web Browser.
+    * Click **Save**.
+    
