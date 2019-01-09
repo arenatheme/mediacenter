@@ -74,7 +74,7 @@ At **Cart Page**, you can customize:
 
 * **Multiple Currency**: choose whether to show multiple currency.
 
-### 6. Product Grid
+### 7. Product Grid
 
 It's will change display for product grid layout in Homepage & Collection \(Product Grid\).
 
@@ -82,14 +82,18 @@ It's will change display for product grid layout in Homepage & Collection \(Prod
 
 * Hover Effect
 * Image Balance: Use in case your store dont have many product's image width/height ratio
+* PRODUCT COLOR AND SIZE
+* SALE LABEL
+* NEW LABEL
+* ADD TO CART REDIRECT
 
-
-### Popup Newsletter
+### 8. Popup Newsletter
 
 * Popup image
 * Mailing Form Action
 
-### Checkout \(default Shopify settings\)
+### 9. Checkout \(default Shopify settings\)
 
+It's use Shopify default Settings
 
 
