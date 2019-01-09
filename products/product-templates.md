@@ -8,8 +8,3 @@ The electro theme support 3 product templates layout:
 ## Assign your template in the admin {#assign-your-template-in-the-admin-sectioned-themes-specific}
 
 You can assign the template that you want to use for each product from the**Template suffix **list.
-
-
-
-
-

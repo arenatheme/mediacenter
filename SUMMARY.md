@@ -33,6 +33,7 @@
   * [Pro Multi-Tab Description](products/product-multi-tab-description.md)
 * [Pages](pages.md)
   * [About us & Contact Us](pages/about-us.md)
+* [Blog] (blogs.md)
 
 ## Extensions
 
