@@ -1,4 +1,4 @@
-If you have a Shopify online store, then you can create webpages in your Shopifyadmin. Webpages contain information that rarely changes or that customers will reference often, like an "About Us" page or a "Contact Us" page.
+If you have a Shopify online store, then you can create webpages in your Shopify admin. Webpages contain information that rarely changes or that customers will reference often, like an "About Us" page or a "Contact Us" page.
 
 You can also [add a blog](https://help.shopify.com/en/manual/sell-online/online-store/blogs) to your online store for content that you'll be updating regularly, or if you want to encourage feedback.
 
