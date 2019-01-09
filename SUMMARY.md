@@ -26,7 +26,7 @@
 * [Products Pages](products.md)
   * [Product Color or Image Variants](products/product-color-variant.md)
   * [Product Size Variant](products/product-quantity-selector.md)
-  * [Short Description](products/countdown-product.md)
+  * [Short Description](products/shortcode-product.md)
   * [Countdown Timer](products/count-down-product.md)
   * [Exit Intent Popup Coupon](extensions/exit-intent-popup.md)
   * [Pro Multi-Tab Description](products/product-multi-tab-description.md)
