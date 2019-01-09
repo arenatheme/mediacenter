@@ -37,15 +37,38 @@ There are 3 Static Section: **Header \(apply for all pages\), Collection \(colle
       * Same for all collection: You can use only one image as the feature image for all collection.
       * Different image for each collection: You my use the theme assets image to show different image for each collection.
     * Upload image: Upload the image use when you select Same for all collection above.
-  * **SIDEBAR** PLACEMENT
-  * CONTENT: Setting contents for **SIDEBAR**
+  * **COLLECTION FILTER**
+    * Filter position: Select position to display filter
+      * Sidebar
+      
+      ![](/assets/sbp.png)
+      * Body
+      
+      ![](/assets/bdp.png)
+      * None: Disable Filter
+    * Filter sidebar style: When you select filter position at sidebar you may change style of the filter following 2 options
+      * Normal
+      * Accordion
+      
+      ![](/assets/acdo.png)
+    * Filter body and mobile style: When you select filter position at body, you may change style of the filter following 2 options:
+      * Toggle
+      * Drawer
+  * **SIDEBAR** PLACEMENT: Select your sidebar position on the page.
+    * Left
+    * Right
+    * None: Turn of the sidebar
+  * **CONTENT**: Setting block contents for **SIDEBAR**
   * **Theme Settings**: Setting from this part will effect to the whole website.
+
 ##### CONTENT
 
+There are 4 types of block content you may add to sidebar, you may change the position of content base on block position here.
     * Filter: Filter for your Collection page
     * Sidebar Collection Menu: Collection Nestest Navigation show at Sidebar.
     * Sidebar Banner: Banner at sidebar
     * Sidebar Product: Product featured as sidebar
+
 
 ---
 
