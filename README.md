@@ -1,4 +1,4 @@
-## Getting started with Handy
+## Getting started with MediaCenter
 
 Document Online version: https://arenatheme.gitbooks.io/mediacenter/content/
 
