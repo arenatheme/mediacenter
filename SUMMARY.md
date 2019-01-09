@@ -25,7 +25,7 @@
 * [Collection](collection.md)
 * [Products Pages](products.md)
   * [Pro Multi-Tab Description](products/product-multi-tab-description.md)
-  * [Short Description](products/shortcode-product.md)
+  * [Product Short Description](products/shortcode-product.md)
   * [Product Size Variant](products/product-quantity-selector.md)
   * [Product Color or Image Variants](products/product-color-variant.md)
   * [Product Countdown Timer](products/count-down-product.md)
