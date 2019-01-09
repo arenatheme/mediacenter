@@ -1,5 +1,6 @@
-Take a look at the demo to see how it should end up functioning: https://arena-Handy.myshopify.com/products/anity-product-sample
+Take a look at the demo to see how it should end up functioning: 
 
+https://arena-mediacenter.myshopify.com/collections/featued/products/fixair-product-sample
 
 ### Adding Short Description \(Description _excerpts_\)
 
