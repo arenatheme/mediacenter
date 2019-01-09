@@ -41,8 +41,8 @@ There are 3 Static Section: **Header \(apply for all pages\), Collection \(colle
   * CONTENT: Setting contents for **SIDEBAR**
   * **Theme Settings**: Setting from this part will effect to the whole website.
 ##### CONTENT
-    * Sub collection: Display Sub Collection to Collection page.
-    * Toggle Filter: Filter for your Collection page
+
+    * Filter: Filter for your Collection page
     * Sidebar Collection Menu: Collection Nestest Navigation show at Sidebar.
     * Sidebar Banner: Banner at sidebar
     * Sidebar Product: Product featured as sidebar
