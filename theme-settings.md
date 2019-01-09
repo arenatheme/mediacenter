@@ -28,7 +28,7 @@ The theme use **arenafont **to display icon by CSS class. You may follow instruc
 
 [Read more detail about arenafont here](/how-to-use-and-update-arenafont.md)
 
-### Colors & Style
+### 3. Colors & Style
 
 At **Colors & Style**, you can customize:
 
@@ -40,19 +40,20 @@ At **Colors & Style**, you can customize:
 * Footer color.
 * Buttons color.
 
-### General Settings
+### 4. General Settings
 
 At Settings Extended you can customize extended function that use for theme:
 
-* OVERVIEW
-* Extended function: Enable Lazy loading, Quick View Product, Disable Ajax Cart, Enable Catalog Mode, Enable Search Function, Enable Wishlist, Enable Compare, Back to Top button...
+* Lazyload: Enable Lazyload Function. It's not apply for Homepage Sections
+* Disable Ajax Cart: Disable ajax cart function.
+* Enable Search Function
+* Enable Wishlist
+* Enable Compare
+* Quick View Product
+* Back to Top button
 * **EU COOKIE POLICY**
-* Homepage: Show left column section
-* Collection: Select view mobile default, Enable product's image blance, Fixed Image Height
-* Product: Sticky Add to cart on Mobile
-* EU Cookie Policy
 
-### Cart Page
+### 5. Cart Page
 
 At **Cart Page**, you can customize:
 
@@ -70,7 +71,7 @@ At **Cart Page**, you can customize:
 
 * Terms and Conditions
 
-### Product Grid
+### 6. Product Grid
 
 It's will change display for product grid layout in Homepage & Collection \(Product Grid\).
 
