@@ -26,17 +26,23 @@ Now you can setting your header
 
 ### NAVIGATION
 
-There are 4 navigations:
+From **Header**, go to **Menu**. There are 4 navigations options:
 
 ![](/assets/menu-mediacenter.png)
 
-1. Top Menu: Navigation list use on Top
+1. Top Menu: top of header
 
-2. Main Menu
+2. Main Menu: Main of header
 
-3. Mobile Menu
+3. Mobile Menu: Mobile navigation
 
-4. Vertical Menu
+4. Vertical Menu: Verticle navigation.
+
+![](/assets/list-menu-mediacenter.png)
+
+It's require to add a menu items to select in the option above. You may read more detail here: https://help.shopify.com/en/manual/sell-online/online-store/menus-and-links/editing-menus
+
+
 
 
 ### SETUP MEGA NAVIGATION
